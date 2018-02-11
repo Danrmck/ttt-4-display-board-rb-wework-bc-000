@@ -1,5 +1,5 @@
 board = [" O "," "," "," "," "," "," "," "," "]
-display_board(board)
+
 
 puts "   |   |   "
 puts "-----------"
