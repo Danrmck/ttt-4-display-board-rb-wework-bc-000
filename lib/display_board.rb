@@ -1,5 +1,6 @@
 board = [" "," "," "," "," "," "," "," "," "]
-puts board[4] = X
+puts "board[4] = X"
+
 
 puts "   |   |   "
 puts "-----------"
